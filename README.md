@@ -1,5 +1,7 @@
-# brainfuck
-brainfuck interpreter
+# Esoteric Language
+Esoteric Language Interpreter
+
+This project is a C-based interpreter for the esoteric programming language known as "Brainfuck". Please note that the repository has been renamed to ensure clarity and maintain professional standards, as the original language name was frequently subject to improper or offensive automated translations by various web browsers and localization tools.
 
 How to use:\
 \
